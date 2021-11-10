@@ -11,3 +11,5 @@ Normal text
 ###### Elenco numerato
 1. TestA
 2. TestB
+
+Now I'm ready for the first merge
