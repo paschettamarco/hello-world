@@ -1,0 +1,7 @@
+git clone 'repository_url' => download repository in local folder
+git branch => show branch (default main/master)
+git checkout develop => change branch (Only if no changes are made)
+git checkout -- README.md => Abort changes 
+git commit -a -m "Test commit on the develop branch" => (Update changes on cloud)
+git commit README.md "Test commit on the develop branch" => (Update changes single file on cloud)
+git => Update all from develop to master 

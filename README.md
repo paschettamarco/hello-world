@@ -1,6 +1,6 @@
 # hello-world
 ### Simple repo for educational purposes
->Text tath is a quote
+>Text that is a quote
 
 Normal text
 **bold text**
